@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    background-color: bisque;
+    color:brown;
+    width: 100%;
+}
+h1{
+    margin: 30px;
+    text-align:center;
+}
